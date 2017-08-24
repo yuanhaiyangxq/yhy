@@ -5,7 +5,7 @@ import java.util.concurrent.*;
 import java.util.concurrent.atomic.AtomicInteger;
 
 /**
- * Created by nowcoder on 2016/7/23.
+ * Created by yhy on 2017/8/27.
  */
 
 class MyThread extends Thread {
