@@ -3,7 +3,7 @@ package com.nowcoder.model;
 import java.util.Date;
 
 /**
- * Created by nowcoder on 2016/7/3.
+ * Created by yhy on 2017/8/9.
  */
 public class LoginTicket {
     private int id;
