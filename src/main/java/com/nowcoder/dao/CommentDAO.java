@@ -7,7 +7,7 @@ import org.springframework.stereotype.Component;
 import java.util.List;
 
 /**
- * Created by nowcoder on 2016/7/9.
+ * Created by yhy on 2017/8/1.
  */
 @Mapper
 @Component
