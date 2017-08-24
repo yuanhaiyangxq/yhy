@@ -3,7 +3,7 @@ package com.nowcoder.model;
 import java.util.Date;
 
 /**
- * Created by rainday on 16/6/30.
+ * Created by yhy on 2017/7/26.
  */
 public class News {
 
