@@ -3,7 +3,7 @@ package com.nowcoder.model;
 import java.util.Date;
 
 /**
- * Created by nowcoder on 2016/7/9.
+ * Created by yhy on 2017/8/12.
  */
 public class Message {
     private int id;
