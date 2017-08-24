@@ -5,7 +5,7 @@ import org.apache.ibatis.annotations.*;
 import org.springframework.stereotype.Component;
 
 /**
- * Created by nowcoder on 2016/7/2.
+ * Created by yhy on 2017/7/29.
  */
 @Mapper
 @Component
