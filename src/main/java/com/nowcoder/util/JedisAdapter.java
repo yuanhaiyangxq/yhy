@@ -12,7 +12,7 @@ import redis.clients.jedis.*;
 import java.util.List;
 
 /**
- * Created by nowcoder on 2016/7/13.
+ * Created by yhy on 2017/8/6.
  */
 @Service
 public class JedisAdapter implements InitializingBean {
